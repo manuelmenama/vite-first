@@ -13,7 +13,7 @@ export default {
 <template>
 
   <div class="container">
-
+    
     <NewComponentTitleVue />
 
   </div>

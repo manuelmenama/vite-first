@@ -5,11 +5,11 @@ export default {
 </script>
 
 <template>
-  <h1>Primo giro di Vite</h1>
+  <h2>Primo giro di Vite</h2>
 </template>
 
 <style>
-  h1{
+  h2{
     color: white;
     text-shadow: 2px 2px 4px black;
   }
